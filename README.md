@@ -8,4 +8,4 @@
 
 # Datasets & Solutions
 * [Poker UCI Dataset](Poker.ipynb)
-* [TicTacToe](TicTacToe.ipynb)
+* [TicTacToe UCI Dataset](TicTacToe.ipynb)
