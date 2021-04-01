@@ -2,6 +2,7 @@
 * [Decision Trees](DecisionTrees.ipynb)
 * [Random Forests](RandomForest.ipynb)
 * [AdaBoost](AdaBoost.ipynb)
+* [GradientBoosting](GradientBoosting.ipynb)
 * XGBoost
 * CatBoost
 * LightGBM
