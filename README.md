@@ -10,3 +10,4 @@
 # Datasets & Solutions
 * [Poker UCI Dataset](Poker.ipynb)
 * [TicTacToe UCI Dataset](TicTacToe.ipynb)
+* [Dota2 Dataset](Dota2.ipynb)
